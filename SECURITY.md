@@ -8,7 +8,7 @@ If you believe you have found a security vulnerability in any Target-owned repos
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Intead, please send an email to security@target.com. 
+Instead, please send an email to [security@target.com](mailto:security@target.com). 
 
 You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message. Additional information can be found published under Security/Advisories for each repository, if applicable.
 
