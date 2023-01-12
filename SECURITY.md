@@ -29,7 +29,3 @@ This information will help us triage your report more quickly.
 ## Preferred Languages
 
 We prefer all communications to be in English.
-
-## Policy
-
-Target follows the principle of [Coordinated Vulnerability Disclosure]().
