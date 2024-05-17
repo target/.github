@@ -17,7 +17,7 @@ Visit the [Target Open Source home][oshome] for blogs and more.
 
 ## Our Strategy
 
-Target’s Open Source Program Office (OSPO) advocates for open- and innersource solutions as a strategic business differentiator.
+Target’s Open Source Program Office (OSPO) advocates for open and innersource solutions as a strategic business differentiator.
 We prioritize open source engagement not only to help us advance our goals
 but also to advance technical efforts beyond Target and the retail industry as a whole.
 We aim to equip leaders and technologists with the tools they need to be more effective
@@ -32,4 +32,4 @@ We hope to strengthen the open source movement,
 encourage continued enthusiastic engagement by our teams, and
 establish our support by contributing financially back to the community and ecosystem.
 
-See <https://tech.target.com/open-source> to explore previously funded projects.
+[Explore previously funded projects.](https://tech.target.com/open-source#target-open-source-fund)
