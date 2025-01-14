@@ -1,4 +1,4 @@
-![Open Source @ Target](https://target.scene7.com/is/image/Target/GUEST_7a64b6c1-37f5-4bed-a39e-796ffe987b53?scl=1&qlt=100&fmt=png&q=75)
+![Open Source @ Target](https://target.scene7.com/is/image/Target/GUEST_7a64b6c1-37f5-4bed-a39e-796ffe987b53)
 
 [oshome]: https://tech.target.com/open-source
 [fund]: https://tech.target.com/blog/open-source-fund
